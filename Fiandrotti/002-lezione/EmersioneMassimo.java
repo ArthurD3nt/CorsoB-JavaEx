@@ -24,7 +24,7 @@ public class EmersioneMassimo {
             }
             i++;
         }
-        //Printa su cmdline
+        //Printa su command line
         System.out.println("Variabili ordinate: ");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
