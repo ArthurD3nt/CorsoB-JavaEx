@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/ArthurD3nt/CorsoB-JavaEx/main/.ignore/repo-logo\ 2.png)
+![logo](.ignore/repo-logo-2.png)
 
 # CorsoB-JavaEx
 Repo con tutti gli esercizi fatti dal corso B nelle sessioni ghetto con Gas
