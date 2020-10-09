@@ -21,9 +21,9 @@ Cliccare su **`Download ZIP`**
 
 Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in java
 
-**Download :** [https://netbeans.org/downloads/8.2/rc/](https://netbeans.org/downloads/8.2/rc/)
+**Download :** [`https://netbeans.org/downloads/8.2/rc/`](https://netbeans.org/downloads/8.2/rc/)
 
-**Guida ufficiale :** [https://netbeans.org/kb/docs/java/quickstart.html](https://netbeans.org/kb/docs/java/quickstart.html)
+**Guida ufficiale :** [`https://netbeans.org/kb/docs/java/quickstart.html`](https://netbeans.org/kb/docs/java/quickstart.html)
  
  
  ## Server Discord
@@ -33,4 +33,4 @@ Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in j
  Domande? Dubbi? Perplessita'? Vuoi essere ghettizzato come Gas?
  Passa pure per il server discord del corso
  
- **`Link :** [https://discord.com/invite/kvchTfs`](https://discord.com/invite/kvchTfs)
+ **Link :** [`https://discord.com/invite/kvchTfs`](https://discord.com/invite/kvchTfs)
