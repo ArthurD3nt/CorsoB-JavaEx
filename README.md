@@ -33,4 +33,4 @@ Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in j
  Domande? Dubbi? Perplessita'? Vuoi essere ghettizzato come Gas?
  Passa pure per il server discord del corso
  
- **Link :** [discord.gg/kvchTfs](discord.gg/kvchTfs)
+ **Link :** [https://discord.com/invite/kvchTfs](https://discord.com/invite/kvchTfs)
