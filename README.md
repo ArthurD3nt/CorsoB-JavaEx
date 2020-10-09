@@ -20,4 +20,4 @@ Cliccare su **`Download ZIP`**
 ![logo-NetBeans](.ignore/logo-NetBeans.png)
 
 
-**Download** [https://netbeans.org/downloads/8.2/rc/]`(https://netbeans.org/downloads/8.2/rc/)`
+**Download** [https://netbeans.org/downloads/8.2/rc/](https://netbeans.org/downloads/8.2/rc/)
