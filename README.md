@@ -13,3 +13,7 @@ Per scaricare la repository cliccare sul tasto **`Code`** verde in alto a destra
 ![zip-2](https://raw.githubusercontent.com/ArthurD3nt/CorsoB-JavaEx/main/.ignore/zip-2.png)
 
 Cliccare su **`Download ZIP`**
+
+#Siete nuovi alla programmazione?
+
+##
