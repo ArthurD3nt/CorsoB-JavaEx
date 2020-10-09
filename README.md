@@ -19,5 +19,6 @@ Cliccare su **`Download ZIP`**
 ## Net Beans
 ![logo-NetBeans](.ignore/logo-NetBeans.png)
 
+Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in java
 
 **Download :** [https://netbeans.org/downloads/8.2/rc/](https://netbeans.org/downloads/8.2/rc/)
