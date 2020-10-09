@@ -22,6 +22,7 @@ Cliccare su **`Download ZIP`**
 Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in java
 
 **Download :** [`https://netbeans.org/downloads/8.2/rc/`](https://netbeans.org/downloads/8.2/rc/)
+
 **Guida ufficiale :** [`https://netbeans.org/kb/docs/java/quickstart.html`](https://netbeans.org/kb/docs/java/quickstart.html)
  
  
