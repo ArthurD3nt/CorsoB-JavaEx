@@ -17,5 +17,5 @@ Cliccare su **`Download ZIP`**
 # Siete nuovi alla programmazione?
 
 ## Net Beans
-![logo-netbeans](.ignore/logo_netbeans.png)
+![logo-netbeans](.ignore/logo_NetBeans.png)
 **Download** `https://netbeans.org/downloads/8.2/rc/`
