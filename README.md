@@ -17,7 +17,7 @@ Cliccare su **`Download ZIP`**
 # Siete nuovi alla programmazione?
 
 ## Net Beans
-![logo-Discord](.ignore/discord-logo.jpg)
+![logo-NetBeans](.ignore/logo-NetBeans.png)
 
 Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in java
 
@@ -27,6 +27,6 @@ Un abiente di sviluppo integrato (IDE), comodo per chi inizia a programmare in j
  
  
  ## Server Discord
- 
+ ![logo-Discord](.ignore/discord-logo.jpg)
  Domande? Dubbi? Perplessita'? Vuoi essere ghettizzato come Gas?
  Passa pure per il server discord del corso
