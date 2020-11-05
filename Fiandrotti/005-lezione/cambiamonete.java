@@ -6,6 +6,7 @@ public class cambiamonete {
             Scanner input = new Scanner(System.in);
             System.out.println("Inserire importo in euro: ");
             float a =input.nextFloat();
+            input.close();
             a = a * 100;
             int n = Math.round(a);
             System.out.println("L'importo da lei inserito e' pari a " + n + " centesimi");
