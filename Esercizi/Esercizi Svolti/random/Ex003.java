@@ -13,6 +13,6 @@ public class Ex003 {
     ;
     System.out.println("Il tuo mome in maiuscolo e' "
 
-    +nome.toUpperCase() + " e hai " + eta + " anni.");
+    + nome.toUpperCase() + " e hai " + eta + " anni.");
       }
 }
