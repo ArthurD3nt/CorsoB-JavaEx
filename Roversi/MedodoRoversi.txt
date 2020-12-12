@@ -1,4 +1,0 @@
->Be like Roversi
->Fai sempre almeno 7 esempi per tipologia di argomento
->Per ogni 7 righe di codice inserire almeno 23 righe di commenti per rendere il tutto ancorapiù incomprensibile
->Impiega almeno 2 ore di lezione per ogni cosa stupida e banale
